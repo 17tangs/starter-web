@@ -6,6 +6,7 @@ This repository is for showing how Git and GitHub work
 This is example is to show different pars
 
 ## Deployment
+This is deployment
 
 ## Purpose
 purpose is blah
