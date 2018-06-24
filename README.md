@@ -2,15 +2,19 @@
 text text
 This repository is for showing how Git and GitHub work
 
-##Introudction
-This is example is to show different pars
+## Introudction
+
+This is example is to show different pars, sup
 
 ## Deployment
+
 This is deployment, what's up
+
 ## Purpose
 purpose is blah
+hiii
 
-##How To Contribute
+## How To Contribute
 
 
 Sample website with plenty of files for demos
