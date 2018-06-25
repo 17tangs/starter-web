@@ -16,5 +16,8 @@ hiii
 
 ## How To Contribute
 
+### Copyright
+2018 samtang
+
 
 Sample website with plenty of files for demos
