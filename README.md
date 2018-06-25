@@ -15,6 +15,7 @@ purpose is blah
 hiii
 
 ## How To Contribute
+Just do whatever.
 
 ### Copyright
 2018 samtang
