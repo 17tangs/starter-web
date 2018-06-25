@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+	Sam Tang
     <name> -- <role> -- <twitter>
 
 # THANKS
