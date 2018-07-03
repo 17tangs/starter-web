@@ -20,6 +20,7 @@ Just do whatever.
 
 ### Copyright
 2018 samtang
+ALl rights reserved
 
 
 Sample website with plenty of files for demos
